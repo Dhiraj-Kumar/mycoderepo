@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/firstconsoleapp/bin/Debug/net7.0/firstconsoleapp
+/workspaces/codespaces-blank/firstconsoleapp/bin/Debug/net7.0/firstconsoleapp.deps.json
+/workspaces/codespaces-blank/firstconsoleapp/bin/Debug/net7.0/firstconsoleapp.runtimeconfig.json
+/workspaces/codespaces-blank/firstconsoleapp/bin/Debug/net7.0/firstconsoleapp.dll
+/workspaces/codespaces-blank/firstconsoleapp/bin/Debug/net7.0/firstconsoleapp.pdb
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.AssemblyInfo.cs
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.dll
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/refint/firstconsoleapp.dll
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.pdb
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/firstconsoleapp.genruntimeconfig.cache
+/workspaces/codespaces-blank/firstconsoleapp/obj/Debug/net7.0/ref/firstconsoleapp.dll
